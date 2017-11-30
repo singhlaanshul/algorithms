@@ -1,0 +1,28 @@
+{
+ "data": [
+   {
+     "flightno": "AI0976",
+     "fromcity": "chennai",
+     "tocity": "colombo",
+     "status": "Arrived",
+     "stime": "10:00 AM",
+     "etime": "09:42 AM"
+   },
+   {
+     "flightno": "AI0976",
+     "fromcity": "chennai",
+     "tocity": "colombo",
+     "status": "Arrived",
+     "stime": "10:00 AM",
+     "etime": "09:42 AM"
+   },
+   {
+     "flightno": "AI0976",
+     "fromcity": "chennai",
+     "tocity": "colombo",
+     "status": "Arrived",
+     "stime": "10:00 AM",
+     "etime": "09:42 AM"
+   }
+ ]
+}
